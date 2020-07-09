@@ -3,4 +3,4 @@ This is the lecture available on orally.com about Deep Learning and Computer Vis
 
 Link : https://learning.oreilly.com/videos/autonomous-cars-deep/9781838988463
 
-Completed : June 28
+Course Completed : June 28
