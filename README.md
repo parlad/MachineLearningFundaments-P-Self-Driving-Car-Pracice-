@@ -1,2 +1,6 @@
-# MachineLearningFundaments-P-Self-Driving-Car-Pracice-
+# MachineLearningFundaments-P-Self-Driving-Car-Pracice
 This is the lecture available on orally.com about Deep Learning and Computer Vision for Autonomous Vehicle
+
+Link : https://learning.oreilly.com/videos/autonomous-cars-deep/9781838988463
+
+Completed : June 28
